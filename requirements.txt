@@ -12,7 +12,7 @@ httplib2==0.13.0
 idna==2.8
 importlib-metadata==0.17
 more-itertools==7.0.0
-numpy==1.16.4
+numpy==1.22.0
 oauthlib==3.0.1
 packaging==19.0
 pluggy==0.12.0
